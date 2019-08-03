@@ -1,4 +1,9 @@
-{"type": "FeatureCollection","features": [ 
+{"type": "FeatureCollection","features": [
+
+{"type": "Feature", "properties": {"episode":"5/10","destination":"Norfolk","mannbassador":"Sarah","notes":""}, "geometry": {"type": "Point", "coordinates": [1 , 52.666667] } },
+{"type": "Feature", "properties": {"episode":"5/10","destination":"Minnesota","mannbassador":"Amy","notes":""}, "geometry": {"type": "Point", "coordinates": [-94 , 46] } },
+{"type": "Feature", "properties": {"episode":"5/10","destination":"Georgia","mannbassador":"Meredith & Josh","notes":""}, "geometry": {"type": "Point", "coordinates": [-83.5 , 33] } },
+{"type": "Feature", "properties": {"episode":"10/3","destination":"Queensferry, Edinburgh","mannbassador":"David","notes":""}, "geometry": {"type": "Point", "coordinates": [-3.399681, 55.9894] } }, 
 {"type": "Feature", "properties": {"episode":"10/2","destination":"Milan","mannbassador":"Matteo","notes":""}, "geometry": {"type": "Point", "coordinates": [9.1833333 , 45.466667] } },
 {"type": "Feature", "properties": {"episode":"10/1","destination":"Rome","mannbassador":"Sammy","featurecla":"city","notes":"","latitude":37.6537,"longitude":-122.4197}, "geometry": {"type": "Point", "coordinates": [-122.4197 , 37.6537] } },
 {"type": "Feature", "properties": {"episode":"4/4","destination":"San Jose, California","mannbassador":"Berry","featurecla":"city","notes":"","latitude":37.302,"longitude":-121.8488}, "geometry": {"type": "Point", "coordinates": [-121.8488 , 37.302] } },
@@ -40,7 +45,7 @@
 {"type": "Feature", "properties": {"episode":"7/8","destination":"Whitechapel","mannbassador":"Tim","featurecla":"irregularlocation","notes":"","latitude":51.5148,"longitude":-0.0651}, "geometry": {"type": "Point", "coordinates": [-0.0651 , 51.5148] } },
 {"type": "Feature", "properties": {"episode":"5/7","destination":"Penge","mannbassador":"Matt Thompson","featurecla":"city","notes":"","latitude":51.417,"longitude":-0.062}, "geometry": {"type": "Point", "coordinates": [-0.062 , 51.417] } },
 {"type": "Feature", "properties": {"episode":"8/4","destination":"Tunbridge Wells","mannbassador":"Dan","featurecla":"city","notes":"","latitude":51.1324,"longitude":0.2637}, "geometry": {"type": "Point", "coordinates": [0.2637 , 51.1324] } },
-{"type": "Feature", "properties": {"episode":"8/1","destination":"St Leonards on Sea","mannbassador":"Danny","featurecla":"city","notes":"","latitude":50.8556,"longitude":0.5526}, "geometry": {"type": "Point", "coordinates": [0.5526 , 50.8556] } },
+{"type": "Feature", "properties": {"episode":"8/1","destination":"St Leonards on Sea","mannbassador":"Danny","featurecla":"city","notes":"Artist in Residence","latitude":50.8556,"longitude":0.5526}, "geometry": {"type": "Point", "coordinates": [0.5526 , 50.8556] } },
 {"type": "Feature", "properties": {"episode":"9/9","destination":"Lowestoft","mannbassador":"Alan Peek","featurecla":"city","notes":"","latitude":52.4811,"longitude":1.7534}, "geometry": {"type": "Point", "coordinates": [1.7534 , 52.4811] } },
 {"type": "Feature", "properties": {"episode":"2/8","destination":"Belgium","mannbassador":"Sidleman","featurecla":"country","notes":"","latitude":50.833333,"longitude":4}, "geometry": {"type": "Point", "coordinates": [4 , 50.833333] } },
 {"type": "Feature", "properties": {"episode":"6/2","destination":"Utrecht","mannbassador":"Arnould","featurecla":"city","notes":"","latitude":52.1003,"longitude":5.12}, "geometry": {"type": "Point", "coordinates": [5.12 , 52.1003] } },
@@ -55,7 +60,7 @@
 {"type": "Feature", "properties": {"episode":"5/1","destination":"Slovakia","mannbassador":"Peter","featurecla":"country","notes":"","latitude":48.666667,"longitude":19.5}, "geometry": {"type": "Point", "coordinates": [19.5 , 48.666667] } },
 {"type": "Feature", "properties": {"episode":"9/8","destination":"Hungary","mannbassador":"Greta","featurecla":"country","notes":"","latitude":47,"longitude":20}, "geometry": {"type": "Point", "coordinates": [20 , 47] } },
 {"type": "Feature", "properties": {"episode":"3/1","destination":"Poland","mannbassador":"Podcastlover13","featurecla":"country","notes":"","latitude":52,"longitude":20}, "geometry": {"type": "Point", "coordinates": [20 , 52] } },
-{"type": "Feature", "properties": {"episode":"6/3","destination":"Abu Dhabi","mannbassador":"Greg","featurecla":"country","notes":"","latitude":54.3773,"longitude":24.4539}, "geometry": {"type": "Point", "coordinates": [24.4539 , 54.3773] } },
+{"type": "Feature", "properties": {"episode":"6/3","destination":"Budapest","mannbassador":"Greg","featurecla":"country","notes":"Formerly Mannbassador for Abu Dhabi","latitude":19.051389,"longitude":47.4925}, "geometry": {"type": "Point", "coordinates": [19.051389 , 47.4925] } },
 {"type": "Feature", "properties": {"episode":"4/5","destination":"Finland","mannbassador":"Melanie","featurecla":"country","notes":"","latitude":64,"longitude":26}, "geometry": {"type": "Point", "coordinates": [26 , 64] } },
 {"type": "Feature", "properties": {"episode":"4/3","destination":"South Africa","mannbassador":"Will","featurecla":"country","notes":"","latitude":-30.5,"longitude":26.5}, "geometry": {"type": "Point", "coordinates": [26.5 , -30.5] } },
 {"type": "Feature", "properties": {"episode":"1/8","destination":"South Africa","mannbassador":"Schpat","featurecla":"country","notes":"","latitude":-30,"longitude":26}, "geometry": {"type": "Point", "coordinates": [26 , -30] } },
