@@ -1,6 +1,6 @@
 {"type": "FeatureCollection","features": [
 
-{"type": "Feature", "properties": {"episode":"10/4","destination":"Oxford","mannbassador":"Gav","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.25778 ,51.751944] } }, 
+{"type": "Feature", "properties": {"episode":"10/4","destination":"Oxford","mannbassador":"Gav","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.257780 ,51.751944] } }, 
 {"type": "Feature", "properties": {"episode":"5/10","destination":"Norfolk","mannbassador":"Sarah","notes":""}, "geometry": {"type": "Point", "coordinates": [1 , 52.666667] } },
 {"type": "Feature", "properties": {"episode":"5/10","destination":"Minnesota","mannbassador":"Amy","notes":""}, "geometry": {"type": "Point", "coordinates": [-94 , 46] } },
 {"type": "Feature", "properties": {"episode":"5/10","destination":"Georgia","mannbassador":"Meredith & Josh","notes":""}, "geometry": {"type": "Point", "coordinates": [-83.5 , 33] } },
