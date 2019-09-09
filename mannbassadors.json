@@ -1,5 +1,7 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"10/5","destination":"Seattle","mannbassador":"Derek","notes":"attaché Jennie"}, "geometry": {"type": "Point", "coordinates": [-122.333056 , 47.609722] } },
+{"type": "Feature", "properties": {"episode":"5/9","destination":"Yerevan","mannbassador":"Stuart","notes":""}, "geometry": {"type": "Point", "coordinates": [44.514444 , 40.181389] } },
 {"type": "Feature", "properties": {"episode":"10/4","destination":"Oxford","mannbassador":"Gav","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.257780 ,51.751944] } }, 
 {"type": "Feature", "properties": {"episode":"5/10","destination":"Norfolk","mannbassador":"Sarah","notes":""}, "geometry": {"type": "Point", "coordinates": [1 , 52.666667] } },
 {"type": "Feature", "properties": {"episode":"5/10","destination":"Minnesota","mannbassador":"Amy","notes":""}, "geometry": {"type": "Point", "coordinates": [-94 , 46] } },
