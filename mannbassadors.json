@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"11/3","destination":"Geelong","mannbassador":"Viv","notes":""}, "geometry": {"type": "Point", "coordinates": [144.35 , -38.15] } },
 {"type": "Feature", "properties": {"episode":"11/3","destination":"Hove","mannbassador":"Paul Steedman","notes":""}, "geometry": {"type": "Point", "coordinates": [-0.1758 , 50.8352] } },
 {"type": "Feature", "properties": {"episode":"11/2","destination":"Kibbutz Ketura, Israel","mannbassador":"Mike","notes":""}, "geometry": {"type": "Point", "coordinates": [35.0709 , 29.9676] } },
 {"type": "Feature", "properties": {"episode":"11/1","destination":"Ivinghoe, Buckhinghamshire","mannbassador":"Nick","notes":""}, "geometry": {"type": "Point", "coordinates": [-0.62842 , 51.836407] } },
