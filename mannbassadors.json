@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
   
+{"type": "Feature", "properties": {"episode":"11/7","destination":"Wickford, Essex","mannbassador":"Adam Hills","notes":""}, "geometry": {"type": "Point", "coordinates": [0.5207 , 51.6114] } },
 {"type": "Feature", "properties": {"episode":"11/6","destination":"Wrexham, North Wales","mannbassador":"Marc","notes":""}, "geometry": {"type": "Point", "coordinates": [-2.993 , 53.046] } },
 {"type": "Feature", "properties": {"episode":"11/5","destination":"Ottawa","mannbassador":"Simon Cutler","notes":""}, "geometry": {"type": "Point", "coordinates": [-75.695 , 45.424722] } },
 {"type": "Feature", "properties": {"episode":"11/4","destination":"Washington, DC","mannbassador":"Julia Bozollo","notes":""}, "geometry": {"type": "Point", "coordinates": [-77.016389 , 38.904722] } },
