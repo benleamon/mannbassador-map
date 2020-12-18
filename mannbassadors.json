@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"11/11","destination":"Galveston, Texas","mannbassador":"Catherine","notes":""}, "geometry": {"type": "Point", "coordinates": [-94.825833 , 29.281111] } },
 {"type": "Feature", "properties": {"episode":"11/10","destination":"Ajax, Ontario","mannbassador":"Ramanuj","notes":""}, "geometry": {"type": "Point", "coordinates": [-79.036389 , 43.858333] } },
 {"type": "Feature", "properties": {"episode":"11/9","destination":"Bolton, Lancashire","mannbassador":"Jake","notes":""}, "geometry": {"type": "Point", "coordinates": [-2.429 , 53.578] } },
 {"type": "Feature", "properties": {"episode":"11/8","destination":"Colarado, USA","mannbassador":"Joe","notes":""}, "geometry": {"type": "Point", "coordinates": [-105.5 , 39] } },
