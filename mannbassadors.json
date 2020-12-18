@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"12/1","destination":"Kings Hill, Kent","mannbassador":"Mike","notes":""}, "geometry": {"type": "Point", "coordinates": [0.4 , 51.273] } },
 {"type": "Feature", "properties": {"episode":"11/12","destination":"glamping in Cornwall","mannbassador":"Andrew","notes":""}, "geometry": {"type": "Point", "coordinates": [-4.8016 , 50.4676] } },
 {"type": "Feature", "properties": {"episode":"11/11","destination":"Galveston, Texas","mannbassador":"Catherine","notes":""}, "geometry": {"type": "Point", "coordinates": [-94.825833 , 29.281111] } },
 {"type": "Feature", "properties": {"episode":"11/10","destination":"Ajax, Ontario","mannbassador":"Ramanuj","notes":""}, "geometry": {"type": "Point", "coordinates": [-79.036389 , 43.858333] } },
