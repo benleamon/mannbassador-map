@@ -1,5 +1,10 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"12/8","destination":"Southampton","mannbassador":"John","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.4, 50.9] } },  
+{"type": "Feature", "properties": {"episode":"12/7","destination":"Croydon","mannbassador":"Gareth","notes":""}, "geometry": {"type": "Point", "coordinates": [-0.1099, 51.3727] } },  
+{"type": "Feature", "properties": {"episode":"12/6","destination":"Philippines","mannbassador":"Gabe","notes":""}, "geometry": {"type": "Point", "coordinates": [122, 13] } },  
+{"type": "Feature", "properties": {"episode":"12/5","destination":"Iceland","mannbassador":"Alex","notes":""}, "geometry": {"type": "Point", "coordinates": [-18, 65] } },
+{"type": "Feature", "properties": {"episode":"12/4","destination":"Happy Valley","mannbassador":"Adam","notes":""}, "geometry": {"type": "Point", "coordinates": [114.183333, 22.266667] } },
 {"type": "Feature", "properties": {"episode":"12/3","destination":"Sydney","mannbassador":"Cat Dorsen","notes":""}, "geometry": {"type": "Point", "coordinates": [151.209444, -33.865] } },
 {"type": "Feature", "properties": {"episode":"12/2","destination":"Bahrain","mannbassador":"Alex Pearson","notes":""}, "geometry": {"type": "Point", "coordinates": [50.55, 26.0275] } },
 {"type": "Feature", "properties": {"episode":"12/1","destination":"Kings Hill, Kent","mannbassador":"Mike","notes":""}, "geometry": {"type": "Point", "coordinates": [0.4001 , 51.273] } },
