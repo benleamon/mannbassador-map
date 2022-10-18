@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"13/6","destination":"Brisbane, Australia","mannbassador":"Jonathan","notes":"nominated by Greg"}, "geometry": {"type": "Point", "coordinates": [153.028056, -27.467778] } },        
 {"type": "Feature", "properties": {"episode":"13/5","destination":"Malta","mannbassador":"Leo","notes":""}, "geometry": {"type": "Point", "coordinates": [14.516667, 35.9] } },        
 {"type": "Feature", "properties": {"episode":"13/4","destination":"Eureka, New Zealand","mannbassador":"Judy","notes":""}, "geometry": {"type": "Point", "coordinates": [175.426335, -37.742341] } },        
 {"type": "Feature", "properties": {"episode":"13/3","destination":"Shanghai, China","mannbassador":"Garry and Angela Cooper","notes":""}, "geometry": {"type": "Point", "coordinates": [121.474722, 31.228611] } },        
