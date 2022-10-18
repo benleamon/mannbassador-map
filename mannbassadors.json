@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"13/1","destination":"San Luis Obispo, California","mannbassador":"Alisha Drube","notes":""}, "geometry": {"type": "Point", "coordinates": [-120.663056, 35.274167] } },      
 {"type": "Feature", "properties": {"episode":"12/12","destination":"Boston, Massachusetts","mannbassador":"Jeff Klein","notes":"our Christmas Mannbassador!"}, "geometry": {"type": "Point", "coordinates": [-71.057778, 42.360278] } },      
 {"type": "Feature", "properties": {"episode":"12/11","destination":"Berlin, Germany","mannbassador":"Kate","notes":""}, "geometry": {"type": "Point", "coordinates": [13.405, 52.52] } },    
 {"type": "Feature", "properties": {"episode":"12/10","destination":"Christ Church, Barbados","mannbassador":"Sandra","notes":""}, "geometry": {"type": "Point", "coordinates": [-59.533333, 13.083333] } },    
