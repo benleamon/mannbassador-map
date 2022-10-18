@@ -1,5 +1,7 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"13/5","destination":"Malta","mannbassador":"Leo","notes":""}, "geometry": {"type": "Point", "coordinates": [14.516667, 35.9] } },        
+{"type": "Feature", "properties": {"episode":"13/4","destination":"Eureka, New Zealand","mannbassador":"Judy","notes":""}, "geometry": {"type": "Point", "coordinates": [175.426335, -37.742341] } },        
 {"type": "Feature", "properties": {"episode":"13/3","destination":"Shanghai, China","mannbassador":"Garry and Angela Cooper","notes":""}, "geometry": {"type": "Point", "coordinates": [121.474722, 31.228611] } },        
 {"type": "Feature", "properties": {"episode":"13/3","destination":"Auckland, New Zealand","mannbassador":"David","notes":""}, "geometry": {"type": "Point", "coordinates": [174.74, -36.840556] } },        
 {"type": "Feature", "properties": {"episode":"13/3","destination":"York, Yorkshire","mannbassador":"Lisa's Cat Philip","notes":"our first feline Mannbassador"}, "geometry": {"type": "Point", "coordinates": [-1.080278, 53.958333] } },        
