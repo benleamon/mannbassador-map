@@ -1,7 +1,8 @@
 {"type": "FeatureCollection","features": [
 
-{"type": "Feature", "properties": {"episode":"13/4","destination":"Auckland, New Zealand","mannbassador":"David","notes":""}, "geometry": {"type": "Point", "coordinates": [174.74, -36.840556] } },        
-{"type": "Feature", "properties": {"episode":"13/4","destination":"York, Yorkshire","mannbassador":"Lisa's Cat Philip","notes":"our first feline Mannbassador"}, "geometry": {"type": "Point", "coordinates": [-1.080278, 53.958333] } },        
+{"type": "Feature", "properties": {"episode":"13/3","destination":"Shanghai, China","mannbassador":"Garry and Angela Cooper","notes":""}, "geometry": {"type": "Point", "coordinates": [121.474722, 31.228611] } },        
+{"type": "Feature", "properties": {"episode":"13/3","destination":"Auckland, New Zealand","mannbassador":"David","notes":""}, "geometry": {"type": "Point", "coordinates": [174.74, -36.840556] } },        
+{"type": "Feature", "properties": {"episode":"13/3","destination":"York, Yorkshire","mannbassador":"Lisa's Cat Philip","notes":"our first feline Mannbassador"}, "geometry": {"type": "Point", "coordinates": [-1.080278, 53.958333] } },        
 {"type": "Feature", "properties": {"episode":"13/3","destination":"Enmore, New South Wales","mannbassador":"Dan Wigmore","notes":""}, "geometry": {"type": "Point", "coordinates": [151.16768, -33.90067] } },      
 {"type": "Feature", "properties": {"episode":"13/2","destination":"Chapel Allerton, Yorkshire","mannbassador":"Graham","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.540071, 53.835888] } },      
 {"type": "Feature", "properties": {"episode":"13/1","destination":"San Luis Obispo, California","mannbassador":"Alisha Drube","notes":""}, "geometry": {"type": "Point", "coordinates": [-120.663056, 35.274167] } },      
