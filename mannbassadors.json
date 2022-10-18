@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"13/9","destination":"Toowomba, Australia","mannbassador":"Nick","notes":"downsizing magnanimously from Queensland at large"}, "geometry": {"type": "Point", "coordinates": [151.95, -27.566667] } },        
 {"type": "Feature", "properties": {"episode":"13/8","destination":"Delaware, USA","mannbassador":"Hilary Suewin","notes":""}, "geometry": {"type": "Point", "coordinates": [-75.5, 39] } },        
 {"type": "Feature", "properties": {"episode":"13/7","destination":"Poole, Dorset","mannbassador":"Diane Parker","notes":"nominated by Dean"}, "geometry": {"type": "Point", "coordinates": [-1.983333, 50.716667] } },        
 {"type": "Feature", "properties": {"episode":"13/6","destination":"Brisbane, Australia","mannbassador":"Jonathan","notes":"nominated by Greg"}, "geometry": {"type": "Point", "coordinates": [153.028056, -27.467778] } },        
