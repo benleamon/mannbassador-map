@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"14/1","destination":"Oak Park, Illinois","mannbassador":"Lorel Janiszewski","notes":""}, "geometry": {"type": "Point", "coordinates": [-87.789444, 41.888333] } },        
 {"type": "Feature", "properties": {"episode":"13/12","destination":"Pittsburgh","mannbassador":"Jennifer","notes":""}, "geometry": {"type": "Point", "coordinates": [-79.976389, 40.439722] } },        
 {"type": "Feature", "properties": {"episode":"13/11","destination":"Estonia","mannbassador":"Andre","notes":""}, "geometry": {"type": "Point", "coordinates": [26, 59] } },        
 {"type": "Feature", "properties": {"episode":"13/10","destination":"Pubs and Inns","mannbassador":"Chris","notes":"publican, Macclesfieldian, gentleman"}, "geometry": {"type": "Point", "coordinates": [-2.13, 53.25] } },        
