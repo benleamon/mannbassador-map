@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"14/8","destination":"Northampton, Massachusetts","mannbassador":"Isobel McMahon","notes":""}, "geometry": {"type": "Point", "coordinates": [-72.65, 42.333333] } },        
 {"type": "Feature", "properties": {"episode":"14/6","destination":"Concord","mannbassador":"David","notes":""}, "geometry": {"type": "Point", "coordinates": [151.10191, -33.85985] } },        
 {"type": "Feature", "properties": {"episode":"14/5","destination":"Bexhill on Sea","mannbassador":"Tim","notes":""}, "geometry": {"type": "Point", "coordinates": [0.47, 50.85] } },        
 {"type": "Feature", "properties": {"episode":"14/4","destination":"Derby","mannbassador":"Peter","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.476667, 52.921667] } },        
