@@ -1,6 +1,7 @@
 {"type": "FeatureCollection","features": [
 
-{"type": "Feature", "properties": {"episode":"14/9","destination":"Midhurst, West Susex","mannbassador":"Andy Gilson","notes":""}, "geometry": {"type": "Point", "coordinates": [50.985,-0.74] } },        
+{"type": "Feature", "properties": {"episode":"14/10","destination":"Toronto","mannbassador":"Grant Oyston","notes":""}, "geometry": {"type": "Point", "coordinates": [-79.373333, 43.741667] } },        
+{"type": "Feature", "properties": {"episode":"14/9","destination":"Midhurst, West Susex","mannbassador":"Andy Gilson","notes":""}, "geometry": {"type": "Point", "coordinates": [50.985, -0.74] } },        
 {"type": "Feature", "properties": {"episode":"14/8","destination":"Northampton, Massachusetts","mannbassador":"Isobel McMahon","notes":""}, "geometry": {"type": "Point", "coordinates": [-72.65, 42.333333] } },        
 {"type": "Feature", "properties": {"episode":"14/6","destination":"Concord","mannbassador":"David","notes":""}, "geometry": {"type": "Point", "coordinates": [151.10191, -33.85985] } },        
 {"type": "Feature", "properties": {"episode":"14/5","destination":"Bexhill on Sea","mannbassador":"Tim","notes":""}, "geometry": {"type": "Point", "coordinates": [0.47, 50.85] } },        
