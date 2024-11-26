@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"14/11","destination":"Dublin","mannbassador":"Jack O' Donovan","notes":""}, "geometry": {"type": "Point", "coordinates": [-6.266667, 53.35] } },        
 {"type": "Feature", "properties": {"episode":"14/11","destination":"Napa Valley","mannbassador":"Rebecca","notes":""}, "geometry": {"type": "Point", "coordinates": [-122.35, 38.3867] } },        
 {"type": "Feature", "properties": {"episode":"14/10","destination":"Toronto","mannbassador":"Grant Oyston","notes":""}, "geometry": {"type": "Point", "coordinates": [-79.373333, 43.741667] } },        
 {"type": "Feature", "properties": {"episode":"14/9","destination":"Midhurst, West Susex","mannbassador":"Andy Gilson","notes":""}, "geometry": {"type": "Point", "coordinates": [50.985, -0.74] } },        
