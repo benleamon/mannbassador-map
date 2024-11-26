@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"15/4","destination":"French Riviera","mannbassador":"Mark Cluer","notes":""}, "geometry": {"type": "Point", "coordinates": [6.665, 43.32] } },        
 {"type": "Feature", "properties": {"episode":"15/3","destination":"Somerset","mannbassador":"Amy Dedman","notes":""}, "geometry": {"type": "Point", "coordinates": [-2.9, 51.1] } },        
 {"type": "Feature", "properties": {"episode":"15/2","destination":"Vero Beach, Florida","mannbassador":"Daniel","notes":""}, "geometry": {"type": "Point", "coordinates": [-80.383333, 27.65] } },        
 {"type": "Feature", "properties": {"episode":"15/1","destination":"Sittingbourne, Kent","mannbassador":"Andy Laing","notes":""}, "geometry": {"type": "Point", "coordinates": [0.74, 51.34] } },        
