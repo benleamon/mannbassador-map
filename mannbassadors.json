@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"15/11","destination":"Cayman Islands","mannbassador":"Sean","notes":""}, "geometry": {"type": "Point", "coordinates": [-81.229, 19.32] } },        
 {"type": "Feature", "properties": {"episode":"15/10","destination":"Isle of Arran","mannbassador":"Liam Blizzard","notes":""}, "geometry": {"type": "Point", "coordinates": [-5.2375, 55.5775] } },        
 {"type": "Feature", "properties": {"episode":"15/9","destination":"Luxembourg","mannbassador":"Nadia","notes":""}, "geometry": {"type": "Point", "coordinates": [6.133333, 49.816667] } },        
 {"type": "Feature", "properties": {"episode":"15/8","destination":"Perth","mannbassador":"Rebecca Fawcett","notes":""}, "geometry": {"type": "Point", "coordinates": [115.8597, -31.9558] } },        
