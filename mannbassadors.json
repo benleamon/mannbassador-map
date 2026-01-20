@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"15/8","destination":"Perth","mannbassador":"Rebecca Fawcett","notes":""}, "geometry": {"type": "Point", "coordinates": [115.8597, -31.9558] } },        
 {"type": "Feature", "properties": {"episode":"15/7","destination":"Bingley","mannbassador":"Jude and Col","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.836, 53.846] } },        
 {"type": "Feature", "properties": {"episode":"15/6","destination":"Chile","mannbassador":"Harvey","notes":""}, "geometry": {"type": "Point", "coordinates": [-71, -34] } },        
 {"type": "Feature", "properties": {"episode":"15/5","destination":"Longniddry, East Lothian","mannbassador":"Sarah Dannfeld","notes":""}, "geometry": {"type": "Point", "coordinates": [-2.894, 55.975] } },        
