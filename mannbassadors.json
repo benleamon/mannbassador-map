@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"16/12","destination":"County Antrim","mannbassador":"Lee McMaster","notes":""}, "geometry": {"type": "Point", "coordinates": [-6.28, 54.865] } },        
 {"type": "Feature", "properties": {"episode":"16/11","destination":"Katahdin, Maine","mannbassador":"Ryan","notes":""}, "geometry": {"type": "Point", "coordinates": [-68.921274, 45.904354] } },        
 {"type": "Feature", "properties": {"episode":"16/10","destination":"Meon Valley","mannbassador":"Gilly","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.243, 50.8183] } },        
 {"type": "Feature", "properties": {"episode":"16/9","destination":"Wairarapa","mannbassador":"Claire","notes":""}, "geometry": {"type": "Point", "coordinates": [176, -39] } },        
