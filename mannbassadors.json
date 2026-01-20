@@ -1,6 +1,7 @@
 {"type": "FeatureCollection","features": [
 
-{"type": "Feature", "properties": {"episode":"16/3","destination":"Blenheim","mannbassador":"Ross Frater","notes":""}, "geometry": {"type": "Point", "coordinates": [173.96, -41.514] } },        
+{"type": "Feature", "properties": {"episode":"16/4","destination":"Amsterdam","mannbassador":"Graham Patterson","notes":""}, "geometry": {"type": "Point", "coordinates": [14.893611, 52.372778] } },        
+{"type": "Feature", "properties": {"episode":"16/2","destination":"Blenheim","mannbassador":"Ross Frater","notes":""}, "geometry": {"type": "Point", "coordinates": [173.96, -41.514] } },        
 {"type": "Feature", "properties": {"episode":"16/1","destination":"Spy Hill, Saskatchewan","mannbassador":"Darcy","notes":""}, "geometry": {"type": "Point", "coordinates": [-101.687222, 50.618611] } },        
 {"type": "Feature", "properties": {"episode":"15/12","destination":"Cheltenham","mannbassador":"Helen Morris","notes":""}, "geometry": {"type": "Point", "coordinates": [-2.066667, 51.9] } },        
 {"type": "Feature", "properties": {"episode":"15/11","destination":"Cayman Islands","mannbassador":"Sean","notes":""}, "geometry": {"type": "Point", "coordinates": [-81.229, 19.32] } },        
