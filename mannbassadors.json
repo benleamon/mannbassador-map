@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"17/2","destination":"Mendocino County, Northern California","mannbassador":"Bob Krofchik","notes":""}, "geometry": {"type": "Point", "coordinates": [-123.3942, 39.4692] } },        
 {"type": "Feature", "properties": {"episode":"17/1","destination":"Portarlington","mannbassador":"Linette","notes":""}, "geometry": {"type": "Point", "coordinates": [144.65, -38.116667] } },        
 {"type": "Feature", "properties": {"episode":"16/12","destination":"County Antrim","mannbassador":"Lee McMaster","notes":""}, "geometry": {"type": "Point", "coordinates": [-6.28, 54.865] } },        
 {"type": "Feature", "properties": {"episode":"16/11","destination":"Katahdin, Maine","mannbassador":"Ryan","notes":""}, "geometry": {"type": "Point", "coordinates": [-68.921274, 45.904354] } },        
