@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"16/6","destination":"Hertfordshire","mannbassador":"Adam","notes":""}, "geometry": {"type": "Point", "coordinates": [-0.07735, 51.79662] } },        
 {"type": "Feature", "properties": {"episode":"16/5","destination":"Wirral Peninsula","mannbassador":"Jimbles","notes":""}, "geometry": {"type": "Point", "coordinates": [-3.083333, 53.366667] } },        
 {"type": "Feature", "properties": {"episode":"16/4","destination":"Amsterdam","mannbassador":"Graham Patterson","notes":""}, "geometry": {"type": "Point", "coordinates": [14.893611, 52.372778] } },        
 {"type": "Feature", "properties": {"episode":"16/2","destination":"Blenheim","mannbassador":"Ross Frater","notes":""}, "geometry": {"type": "Point", "coordinates": [173.96, -41.514] } },        
