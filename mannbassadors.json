@@ -1,5 +1,6 @@
 {"type": "FeatureCollection","features": [
 
+{"type": "Feature", "properties": {"episode":"16/10","destination":"Meon Valley","mannbassador":"Gilly","notes":""}, "geometry": {"type": "Point", "coordinates": [-1.243, 50.8183] } },        
 {"type": "Feature", "properties": {"episode":"16/9","destination":"Wairarapa","mannbassador":"Claire","notes":""}, "geometry": {"type": "Point", "coordinates": [176, -39] } },        
 {"type": "Feature", "properties": {"episode":"16/8","destination":"Aylesbury","mannbassador":"Neil Hawke","notes":""}, "geometry": {"type": "Point", "coordinates": [-0.8124, 51.8168] } },        
 {"type": "Feature", "properties": {"episode":"16/7","destination":"Kingston and Surbiton","mannbassador":"Gee Lewis","notes":""}, "geometry": {"type": "Point", "coordinates": [-0.291, 51.377] } },        
